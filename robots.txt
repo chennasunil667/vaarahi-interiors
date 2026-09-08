@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://vaarahiinteriors.com/sitemap.xml
+Sitemap: https://www.vaarahiinteriors.com/sitemap.xml
